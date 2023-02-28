@@ -1,4 +1,4 @@
-# My solutions to SICP.
+# My solutions to SICP
 
 Using DrRacket, version 8.8.
 
